@@ -1,0 +1,1 @@
+- [safe area](https://swiftwithmajid.com/2021/11/03/managing-safe-area-in-swiftui/)

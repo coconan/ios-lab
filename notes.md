@@ -1,1 +1,2 @@
 - [safe area](https://swiftwithmajid.com/2021/11/03/managing-safe-area-in-swiftui/)
+- [loggin](https://swiftwithmajid.com/2022/04/06/logging-in-swift/)

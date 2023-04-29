@@ -1,2 +1,3 @@
 - [safe area](https://swiftwithmajid.com/2021/11/03/managing-safe-area-in-swiftui/)
-- [loggin](https://swiftwithmajid.com/2022/04/06/logging-in-swift/)
+- [logging](https://swiftwithmajid.com/2022/04/06/logging-in-swift/)
+- [crash reports](https://developer.apple.com/documentation/xcode/acquiring-crash-reports-and-diagnostic-logs)

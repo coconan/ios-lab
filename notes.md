@@ -1,3 +1,4 @@
 - [safe area](https://swiftwithmajid.com/2021/11/03/managing-safe-area-in-swiftui/)
 - [logging](https://swiftwithmajid.com/2022/04/06/logging-in-swift/)
 - [crash reports](https://developer.apple.com/documentation/xcode/acquiring-crash-reports-and-diagnostic-logs)
+- [crashing in ios 16.0](https://stackoverflow.com/questions/73950003/simple-tabview-is-crashing-in-ios-16)
